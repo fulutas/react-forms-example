@@ -1,5 +1,7 @@
 #### Dependencies Used
-###### Next, Formik, Yup, Framer Motion, React-Confetti
+```
+Next, Formik, Yup, Framer Motion, React-Confetti
+```
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
